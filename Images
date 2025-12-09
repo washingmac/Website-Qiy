@@ -1,0 +1,24 @@
+/* Real thumbnail images */
+.morning-meditation {
+  background-image: url('Mei.JPG');
+}
+
+.stress-relief {
+  background-image: url('Ruth.JPG');
+}
+
+.sleep-meditation {
+  background-image: url('HANUN.png');
+}
+
+.mbsr-course {
+  background-image: url('Vi.JPG');
+}
+
+.leadership-course {
+  background-image: url('Aya.JPG');
+}
+
+.beginner-course {
+  background-image: url('Anuka.JPG');
+}
