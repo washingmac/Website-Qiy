@@ -1217,29 +1217,29 @@ nav {
 	z-index: 1;
 }
 
-/* Real thumbnail images */
+//* Real thumbnail images */
 .morning-meditation {
-	background-image: url('images/Mei.JPG');
+  background-image: url('Mei.JPG');
 }
 
 .stress-relief {
-	background-image: url('images/Ruth.JPG');
+  background-image: url('Ruth.JPG');
 }
 
 .sleep-meditation {
-	background-image: url('images/HANUN.png');
+  background-image: url('HANUN.png');
 }
 
 .mbsr-course {
-	background-image: url('images/Vi.JPG');
+  background-image: url('Vi.JPG');
 }
 
 .leadership-course {
-	background-image: url('images/Aya.JPG');
+  background-image: url('Aya.JPG');
 }
 
 .beginner-course {
-	background-image: url('images/Anuka.JPG');
+  background-image: url('Anuka.JPG');
 }
 
 .timer-tool {
